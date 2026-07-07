@@ -1,5 +1,16 @@
-# C++ File Based Banking System
-A C++ file-based banking system built with Object-Oriented Programming, featuring secure authentication, account management, transactions, loan processing, and persistent data storage.
+# File-Based Banking Management System OOP - C++
+A console-based banking management system built in C++ using Object-Oriented 
+Programming principles. It supports account creation, login, deposits, withdrawals, 
+loan requests, and admin-level account management — all with persistent file-based 
+storage (no database required).
+
+## Features
+- Customer registration and login (username + PIN)
+- Deposit, withdraw, and check balance
+- Loan request and admin approval system
+- Transaction history logging with timestamps
+- Admin panel to view account details and delete accounts
+- Data persistence using file I/O (no external database)
 
 # Setup Instructions
 
